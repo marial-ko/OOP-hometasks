@@ -1,0 +1,14 @@
+C:\Users\Sokol\source\repos\LINQTask4\LINQTask4\bin\Debug\LINQTask4.exe.config
+C:\Users\Sokol\source\repos\LINQTask4\LINQTask4\bin\Debug\LINQTask4.exe
+C:\Users\Sokol\source\repos\LINQTask4\LINQTask4\bin\Debug\LINQTask4.pdb
+C:\Users\Sokol\source\repos\LINQTask4\LINQTask4\obj\Debug\LINQTask4.csprojAssemblyReference.cache
+C:\Users\Sokol\source\repos\LINQTask4\LINQTask4\obj\Debug\LINQTask4.csproj.CoreCompileInputs.cache
+C:\Users\Sokol\source\repos\LINQTask4\LINQTask4\obj\Debug\LINQTask4.exe
+C:\Users\Sokol\source\repos\LINQTask4\LINQTask4\obj\Debug\LINQTask4.pdb
+C:\Users\Sokol\Desktop\LINQTask4\LINQTask4\bin\Debug\LINQTask4.exe.config
+C:\Users\Sokol\Desktop\LINQTask4\LINQTask4\bin\Debug\LINQTask4.exe
+C:\Users\Sokol\Desktop\LINQTask4\LINQTask4\bin\Debug\LINQTask4.pdb
+C:\Users\Sokol\Desktop\LINQTask4\LINQTask4\obj\Debug\LINQTask4.csprojAssemblyReference.cache
+C:\Users\Sokol\Desktop\LINQTask4\LINQTask4\obj\Debug\LINQTask4.csproj.CoreCompileInputs.cache
+C:\Users\Sokol\Desktop\LINQTask4\LINQTask4\obj\Debug\LINQTask4.exe
+C:\Users\Sokol\Desktop\LINQTask4\LINQTask4\obj\Debug\LINQTask4.pdb

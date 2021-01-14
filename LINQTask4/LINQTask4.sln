@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQTask4", "LINQTask4\LINQTask4.csproj", "{303183AF-1FE9-405A-8245-AB221B8BFD2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{303183AF-1FE9-405A-8245-AB221B8BFD2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303183AF-1FE9-405A-8245-AB221B8BFD2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303183AF-1FE9-405A-8245-AB221B8BFD2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303183AF-1FE9-405A-8245-AB221B8BFD2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B648BC2-6B12-403C-ABC5-C496EE36BB3C}
+	EndGlobalSection
+EndGlobal
